@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>defender.png</file>
+        <file>fireball.png</file>
+    </qresource>
+    <qresource prefix="/textFile">
+        <file>config.txt</file>
+    </qresource>
+</RCC>

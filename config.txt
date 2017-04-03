@@ -1,0 +1,10 @@
+[coordinate]
+100
+
+[size]
+giant
+
+[command]
+left
+right
+shoot
